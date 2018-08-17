@@ -1,0 +1,12 @@
+.App {
+  box-sizing: border-box;
+  margin: 10px;
+  text-align: center;
+}
+
+.err-msg {
+  margin: 0 auto;
+  color: #ff0000;
+  text-align: left;
+  width: 25%;
+}
